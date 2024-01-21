@@ -14,7 +14,7 @@
 $git clone https://github.com/theNareshofficial/C_stuff.git
 
 #change Directory 
-$cd C_stuff.c
+$cd C_stuff
 
 #compile
 $gcc hello.c -o hello
