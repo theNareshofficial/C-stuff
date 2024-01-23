@@ -29,6 +29,8 @@ $./hello
 <ul>
 <li><h3> <a href="https://github.com/theNareshofficial/C_stuff/blob/main/hello.c/">Hello World program </h3></li>
 <li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/add.c/">Addition program </h3></li>
+<li><h3> <a href="https://github.com/theNareshofficial/C_stuff/blob/main/hello.c/">Ascii char to num</h3></li>
+<li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/add.c/">Datatype size</h3></li>
 
 <li><h3><a href="#">Commming Sooon...</h3></li>
 </ul>
