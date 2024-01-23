@@ -1,4 +1,4 @@
-// This program is used for Datatype size 
+// This program is used for each Datatype size 
 
 
 #include <stdio.h>
