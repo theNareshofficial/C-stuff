@@ -33,6 +33,8 @@ $./hello
 <li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/datatype_size.c/">Datatype size</h3></li>
 <li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/data_type.c/">Datatype's</h3></li>
 <li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/Int2Hex.c/">Convert Int to Hex</h3></li>
+<li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/ispunct.c/">ispunct</h3></li>
+<li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/Int2Hex.c/">Math</h3></li>
 <li><h3><a href="#">Commming Sooon...</h3></li>
 </ul>
 
