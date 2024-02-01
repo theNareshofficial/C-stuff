@@ -35,6 +35,8 @@ $./hello
 <li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/Int2Hex.c/">Convert Int to Hex</h3></li>
 <li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/ispunct.c/">ispunct</h3></li>
 <li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/Int2Hex.c/">Math</h3></li>
+<li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/even_or_odd.c/">Even or Odd</h3></li>
+<li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/global.c/">Global-Static</h3></li>
 <li><h3><a href="#">Commming Sooon...</h3></li>
 </ul>
 
