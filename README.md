@@ -38,8 +38,8 @@ $./hello
 <li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/even_or_odd.c/">Even or Odd</h3></li>
 <li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/global.c/">Global-Static</h3></li>
 <li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/table.c/">Tables</h3></li>
-<li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/table.c/"></h3></li>
-<li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/table.c/">Tables</h3></li>
+<li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/array/index.c">Index of Array</h3></li>
+<li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/array/array_int.c">for Array</h3></li>
 <li><h3><a href="#">Commming Sooon...</h3></li>
 </ul>
 
