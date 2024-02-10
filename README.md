@@ -40,6 +40,8 @@ $./hello
 <li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/table.c/">Tables</h3></li>
 <li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/array/index.c">Index of Array</h3></li>
 <li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/array/array_int.c">for Array</h3></li>
+<li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/memory_address.c/">Memory address</h3></li>
+<li><h3><a href="https://github.com/theNareshofficial/C_stuff/blob/main/linux_pswd.c/">Linux password</h3></li>
 <li><h3><a href="#">Commming Sooon...</h3></li>
 </ul>
 
